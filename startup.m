@@ -16,6 +16,7 @@
 % http://lmb.informatik.uni-freiburg.de/resources/software.php
 % [Classical Variational Optical Flow]
 % addpath '/path/to/OF_code'
+addpath 'OF_code/'
 
 %% PATHS TO SOURCE CODE
 addpath 'compute_OF/'
