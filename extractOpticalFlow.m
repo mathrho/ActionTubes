@@ -1,8 +1,10 @@
 function [] = extractOpticalFlow(vid_list, fps)
 
-load_dir = '/home/zhenyang//Workspace/data/UCF11/frames';
-save_dir = sprintf('/home/zhenyang//Workspace/data/UCF11/features/flow_brox@fps%d', fps);
-vid_list_file = '/home/zhenyang/Workspace/data/UCF11/list_traintest.txt';
+load_dir = '/home/zhenyang//Workspace/data/UCF101/frames';
+%save_dir = sprintf('/home/zhenyang//Workspace/data/UCF11/features/flow_brox@fps%d', fps);
+save_dir = sprintf('/home/zhenyang//Workspace/data/UCF101/features/flow_brox');
+%vid_list_file = '/home/zhenyang/Workspace/data/UCF11/list_traintest.txt';
+vid_list_file = '/home/zhenyang/Workspace/data/UCF101/list_UCF101.txt';
 
 folderlist = dir(load_dir);
 foldername = {folderlist(:).name};
