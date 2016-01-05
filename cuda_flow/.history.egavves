@@ -1,0 +1,782 @@
+2015-10-28.12-04-37 cmake .
+2015-10-28.12-04-49 vim README.txt 
+2015-10-28.12-04-50 make
+2015-10-28.12-05-20 make
+2015-10-28.12-05-22 make
+2015-10-28.12-05-46 make
+2015-10-28.12-05-46 make
+2015-10-28.12-05-47 make
+2015-10-28.13-50-51 make all -j32
+2015-10-28.13-50-56 make
+2015-10-28.22-11-39 s
+2015-10-28.22-11-42 clear
+2015-10-28.22-11-50 cmake .
+2015-10-28.22-12-35 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/include/opencv2/ .
+2015-10-28.22-12-50 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/include/opencv2/ .
+2015-10-28.22-13-19 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/include/opencv2/ .
+2015-10-28.22-13-32 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5 .
+2015-10-28.22-13-35 make alla
+2015-10-28.22-13-37 make all
+2015-10-28.22-15-07 make all
+2015-10-28.22-16-22 make all
+2015-10-28.22-17-21 find /home/egavves/Downloads/opencv-3.0.0/ | grep cudaoptflow.hpp
+2015-10-28.22-17-39 find /usr/local/include/ | grep cudaoptflow.hpp
+2015-10-28.22-19-31 vim CMakeLists.txt 
+2015-10-28.22-19-48 vim Makefile 
+2015-10-28.22-19-59 vim Makefile 
+2015-10-28.22-19-59 ks
+2015-10-28.22-20-11 vim cmake_install.cmake 
+2015-10-28.22-20-27 vim cmake_install.cmake 
+2015-10-28.22-20-27 vim cmake_install.cmake 
+2015-10-28.22-20-27 clear
+2015-10-28.22-48-33 vim README.txt 
+2015-10-28.22-48-53 find /home/egavves/Downloads/opencv-3.0.0/ | grep optical_flow.cpp
+2015-10-28.22-49-07 find /home/egavves/Downloads/opencv-3.0.0/ | grep optical_flow
+2015-10-28.22-49-44 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.22-50-16 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.22-50-16 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.22-50-44 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.22-50-49 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.23-51-27 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.23-51-27 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.23-51-27 /home/egavves/Downloads/opencv-3.0.0/release/bin/gpu-example-optical_flow
+2015-10-28.23-51-42 vim CMake
+2015-10-28.23-52-25 vim CMakeLists.txt 
+2015-10-28.23-52-27 clear
+2015-10-28.23-52-30 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5 .
+2015-10-28.23-52-31 clear
+2015-10-28.23-52-32 make
+2015-10-28.23-52-43 vim CMakeLists.txt 
+2015-10-28.23-52-44 clea
+2015-10-28.23-52-47 make clean
+2015-10-28.23-52-48 clear
+2015-10-28.23-52-50 make clean
+2015-10-28.23-52-53 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5 .
+2015-10-28.23-52-57 clear
+2015-10-28.23-52-59 make
+2015-10-28.23-54-19 vim CMakeLists.txt 
+2015-10-28.23-54-20 clear
+2015-10-28.23-54-22 make clean
+2015-10-28.23-54-24 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5 .
+2015-10-28.23-54-25 clear
+2015-10-28.23-54-27 make
+2015-10-28.23-54-40 clear
+2015-10-28.23-55-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-55-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-55-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-55-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-55-49 clear
+2015-10-28.23-55-52 make
+2015-10-28.23-56-09 clear
+2015-10-28.23-56-22 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-57-00 make
+2015-10-28.23-57-01 clear
+2015-10-28.23-57-22 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-57-33 make
+2015-10-28.23-57-34 clear
+2015-10-28.23-57-59 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-28.23-58-22 make
+2015-10-28.23-58-23 make
+2015-10-28.23-58-23 make
+2015-10-28.23-58-23 make
+2015-10-28.23-58-24 clear
+2015-10-28.23-58-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.00-16-09 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-16-12 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-16-15 ls /home/egavves/Datasets/ucf101/frames_resized/v_Diving_g01_c02
+2015-10-29.00-17-59 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-18-32 vim /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-19-51 vim /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-20-01 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-20-11 ls /home/egavves/Datasets/ucf101/frames_resized/v_Drumming_g18_c03 | wc -l
+2015-10-29.00-20-16 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-20-22 vim /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-20-32 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-20-35 ls /home/egavves/Datasets/ucf101/frames_resized/v_CleanAndJerk_g03_c01
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_BreastStroke_g04_c02
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_GolfSwing_g24_c02
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_PlayingCello_g04_c03
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_Knitting_g16_c01
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_PushUps_g13_c03
+2015-10-29.00-20-35 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-38 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_CleanAndJerk_g03_c01
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_BreastStroke_g04_c02
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_GolfSwing_g24_c02
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_PlayingCello_g04_c03
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_Knitting_g16_c01
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_PushUps_g13_c03
+2015-10-29.00-20-39 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-41 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_CleanAndJerk_g03_c01
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_BreastStroke_g04_c02
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_GolfSwing_g24_c02
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_PlayingCello_g04_c03
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_Knitting_g16_c01
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_PushUps_g13_c03
+2015-10-29.00-20-42 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-43 /home/egavves/Datasets/ucf101/frames_resized/v_Swing_g16_c02
+2015-10-29.00-20-52 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-20-57 ls /home/egavves/Datasets/ucf101/frames_resized/v_CleanAndJerk_g03_c01 | wc -l
+2015-10-29.00-20-59 clear
+2015-10-29.00-21-06 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-10-29.00-21-09 vim /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-21-27 cmake -DCUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5 .
+2015-10-29.00-21-29 make
+2015-10-29.00-21-44 clear
+2015-10-29.00-21-45 make
+2015-10-29.00-22-21 make
+2015-10-29.00-23-07 make
+2015-10-29.00-24-13 make
+2015-10-29.00-24-17 clear & make
+2015-10-29.00-26-52 clear
+2015-10-29.00-26-56 make
+2015-10-29.00-27-15 clear
+2015-10-29.00-27-16 make
+2015-10-29.00-28-43 clear
+2015-10-29.00-28-44 make
+2015-10-29.00-28-59 clear
+2015-10-29.00-29-01 make
+2015-10-29.00-29-19 clear
+2015-10-29.00-29-21 make
+2015-10-29.00-29-42 clear
+2015-10-29.00-29-43 make
+2015-10-29.00-30-12 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-30-58 clear
+2015-10-29.00-30-59 make
+2015-10-29.00-31-01 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-34-31 male
+2015-10-29.00-34-33 make
+2015-10-29.00-34-34 ckear
+2015-10-29.00-34-36 clear
+2015-10-29.00-34-39 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-35-53 clea
+2015-10-29.00-35-54 clear
+2015-10-29.00-35-56 make
+2015-10-29.00-35-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-36-49 ls /home/egavves/Datasets/ucf101/frames_resized/v_Drumming_g18_c03
+2015-10-29.00-43-14 clear
+2015-10-29.00-43-16 make
+2015-10-29.00-43-58 ma
+2015-10-29.00-43-59 ma
+2015-10-29.00-44-01 clear
+2015-10-29.00-44-02 make
+2015-10-29.00-44-32 make
+2015-10-29.00-45-09 clear
+2015-10-29.00-45-10 make
+2015-10-29.00-45-12 clea
+2015-10-29.00-45-13 clea
+2015-10-29.00-45-14 clear
+2015-10-29.00-45-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-45-55 clear
+2015-10-29.00-45-57 make
+2015-10-29.00-46-31 clear
+2015-10-29.00-46-33 make
+2015-10-29.00-46-35 clear
+2015-10-29.00-47-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-51-51 clear
+2015-10-29.00-51-52 make
+2015-10-29.00-52-02 make
+2015-10-29.00-52-23 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.00-53-41 clear
+2015-10-29.00-53-42 make
+2015-10-29.00-53-46 make
+2015-10-29.00-53-47 clear
+2015-10-29.00-53-48 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.00-54-07 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.00-54-14 make
+2015-10-29.00-54-16 clear
+2015-10-29.00-54-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.00-54-39 clea
+2015-10-29.00-54-41 clear
+2015-10-29.00-54-42 make
+2015-10-29.00-54-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.00-55-04 clear
+2015-10-29.00-55-05 make
+2015-10-29.00-56-20 clear
+2015-10-29.00-56-21 mae
+2015-10-29.00-56-22 clea
+2015-10-29.00-56-23 clear
+2015-10-29.00-56-25 make
+2015-10-29.00-56-38 clear
+2015-10-29.00-56-39 make
+2015-10-29.00-56-46 clear
+2015-10-29.00-56-48 make
+2015-10-29.00-58-57 clear
+2015-10-29.00-58-58 make
+2015-10-29.00-59-10 make
+2015-10-29.00-59-32 clear
+2015-10-29.00-59-40 amke
+2015-10-29.00-59-42 make
+2015-10-29.00-59-43 clear
+2015-10-29.01-01-17 clear
+2015-10-29.01-01-19 make
+2015-10-29.01-01-21 clear
+2015-10-29.01-01-22 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-01-38 cler
+2015-10-29.01-01-40 clear
+2015-10-29.01-01-42 make
+2015-10-29.01-01-43 clear
+2015-10-29.01-01-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-01-49 make clean
+2015-10-29.01-01-50 clear
+2015-10-29.01-01-51 make
+2015-10-29.01-01-53 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-02-03 clea
+2015-10-29.01-02-06 clear
+2015-10-29.01-02-08 make
+2015-10-29.01-02-10 ./
+2015-10-29.01-02-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-02-26 nvidia-smi
+2015-10-29.01-02-33 clear
+2015-10-29.01-03-10 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-03-17 clear
+2015-10-29.01-03-19 make
+2015-10-29.01-03-22 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-03-52 clear
+2015-10-29.01-03-53 mae
+2015-10-29.01-03-55 make
+2015-10-29.01-03-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-04-10 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-04-26 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-04-33 clear
+2015-10-29.01-04-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-04-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-04-57 clea
+2015-10-29.01-04-58 clear
+2015-10-29.01-05-00 make
+2015-10-29.01-05-01 clc
+2015-10-29.01-05-20 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-06-26 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-06-28 make
+2015-10-29.01-06-28 clear
+2015-10-29.01-06-53 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-08-03 clear
+2015-10-29.01-08-05 make
+2015-10-29.01-08-24 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-09-06 clear
+2015-10-29.01-09-47 make
+2015-10-29.01-09-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00001.jpg /home/egavves/Datasets/ucf101/frames_resized/v_ApplyEyeMakeup_g05_c03/frame_00002.jpg
+2015-10-29.01-09-53 clear
+2015-10-29.01-09-56 ./c
+2015-10-29.01-09-56 ./c
+2015-10-29.01-09-57 clear
+2015-10-29.01-10-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-18-05 clear
+2015-10-29.01-18-07 make
+2015-10-29.01-18-18 make
+2015-10-29.01-18-36 clear
+2015-10-29.01-18-38 make
+2015-10-29.01-20-22 clear
+2015-10-29.01-20-25 make
+2015-10-29.01-20-34 make
+2015-10-29.01-20-35 clear
+2015-10-29.01-20-37 make
+2015-10-29.01-20-39 clear
+2015-10-29.01-21-00 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-21-13 make
+2015-10-29.01-21-14 clear
+2015-10-29.01-21-29 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-22-46 make
+2015-10-29.01-27-50 clea
+2015-10-29.01-27-51 clear
+2015-10-29.01-27-53 make
+2015-10-29.01-28-00 clear
+2015-10-29.01-28-01 make
+2015-10-29.01-28-14 clear
+2015-10-29.01-28-17 make
+2015-10-29.01-28-19 clear
+2015-10-29.01-28-47 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-30-41 clear
+2015-10-29.01-30-43 make
+2015-10-29.01-30-45 clear
+2015-10-29.01-31-00 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-33-57 make
+2015-10-29.01-33-58 clear
+2015-10-29.01-34-19 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-38-15 make
+2015-10-29.01-38-16 clear
+2015-10-29.01-38-29 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-39-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-40-52 make
+2015-10-29.01-40-53 clear
+2015-10-29.01-41-23 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-41-41 make
+2015-10-29.01-42-08 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-43-24 clear
+2015-10-29.01-44-24 make
+2015-10-29.01-44-25 clear
+2015-10-29.01-44-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-46-06 clear
+2015-10-29.01-46-17 make
+2015-10-29.01-50-55 clear
+2015-10-29.01-50-57 ake
+2015-10-29.01-50-58 make
+2015-10-29.01-51-22 clear
+2015-10-29.01-51-24 make
+2015-10-29.01-51-26 clear
+2015-10-29.01-51-46 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-53-25 clear
+2015-10-29.01-53-26 make
+2015-10-29.01-53-45 clear
+2015-10-29.01-53-47 make
+2015-10-29.01-54-06 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-54-49 ckear
+2015-10-29.01-54-50 clear
+2015-10-29.01-54-56 make
+2015-10-29.01-54-57 clear
+2015-10-29.01-55-15 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-55-59 clear
+2015-10-29.01-56-02 make
+2015-10-29.01-56-29 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.01-57-46 clear
+2015-10-29.01-57-48 make
+2015-10-29.01-58-11 clear
+2015-10-29.01-58-12 make
+2015-10-29.01-58-50 clea
+2015-10-29.01-58-52 clear
+2015-10-29.01-58-53 male
+2015-10-29.01-58-55 make
+2015-10-29.02-01-59 clear
+2015-10-29.02-02-00 make
+2015-10-29.02-02-30 clear
+2015-10-29.02-02-32 make
+2015-10-29.02-02-34 clear
+2015-10-29.02-02-54 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-03-45 clear
+2015-10-29.02-03-46 make
+2015-10-29.02-03-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-03-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-04-00 clear
+2015-10-29.02-04-03 make
+2015-10-29.02-04-36 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-05-43 clear
+2015-10-29.02-05-45 make
+2015-10-29.02-06-00 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-06-18 cler
+2015-10-29.02-06-19 clear
+2015-10-29.02-06-22 make
+2015-10-29.02-06-24 clear
+2015-10-29.02-06-45 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-07-43 clear
+2015-10-29.02-07-45 make
+2015-10-29.02-08-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-08-48 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-08-48 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-08-49 clear
+2015-10-29.02-08-52 make
+2015-10-29.02-08-53 clear
+2015-10-29.02-09-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-10-41 clear
+2015-10-29.02-10-42 mae
+2015-10-29.02-10-44 make
+2015-10-29.02-10-57 clear
+2015-10-29.02-11-00 make
+2015-10-29.02-11-48 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-12-16 g test.jpg 
+2015-10-29.02-13-38 clear
+2015-10-29.02-13-40 make
+2015-10-29.02-13-43 clear
+2015-10-29.02-14-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-14-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-14-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-14-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-15-57 clear
+2015-10-29.02-16-00 make
+2015-10-29.02-16-26 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-16-27 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-16-53 clear
+2015-10-29.02-16-57 make
+2015-10-29.02-17-55 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-17-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-17-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-17-56 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-17-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-17-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-18-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-18-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-18-20 clea
+2015-10-29.02-18-22 clear
+2015-10-29.02-18-24 make
+2015-10-29.02-19-21 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-19-21 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-19-21 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-20-31 make
+2015-10-29.02-20-33 clear
+2015-10-29.02-22-02 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-23-24 make
+2015-10-29.02-23-37 make
+2015-10-29.02-25-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-25-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-25-19 clear
+2015-10-29.02-25-23 make
+2015-10-29.02-26-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-26-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-26-19 make
+2015-10-29.02-26-21 clear
+2015-10-29.02-28-30 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-28-30 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-28-30 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-28-31 clear
+2015-10-29.02-28-34 make
+2015-10-29.02-29-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-29-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-29-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-31-53 clear
+2015-10-29.02-31-55 make
+2015-10-29.02-32-12 clear
+2015-10-29.02-32-15 make
+2015-10-29.02-32-45 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-33-20 clear
+2015-10-29.02-33-23 make
+2015-10-29.02-33-46 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-36-20 clear
+2015-10-29.02-36-22 make
+2015-10-29.02-36-48 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-37-11 make
+2015-10-29.02-37-11 clear
+2015-10-29.02-37-16 clear
+2015-10-29.02-37-23 clear
+2015-10-29.02-37-24 exit
+2015-10-29.02-37-39 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-37-39 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-38-21 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-40-05 clear
+2015-10-29.02-40-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-40-48 make
+2015-10-29.02-40-51 clear
+2015-10-29.02-42-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-42-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-42-03 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-42-05 clear
+2015-10-29.02-42-13 make
+2015-10-29.02-42-14 clear
+2015-10-29.02-44-38 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-44-38 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-44-38 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-44-39 clear
+2015-10-29.02-44-40 make
+2015-10-29.02-45-40 clear
+2015-10-29.02-45-42 make
+2015-10-29.02-45-51 clear
+2015-10-29.02-45-54 make
+2015-10-29.02-46-21 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-47-14 make
+2015-10-29.02-47-15 clear
+2015-10-29.02-47-34 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-47-55 clear
+2015-10-29.02-47-57 make
+2015-10-29.02-47-58 make
+2015-10-29.02-47-59 clear
+2015-10-29.02-48-45 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-49-18 make
+2015-10-29.02-50-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-50-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-50-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.02-50-47 clear
+2015-10-29.02-50-49 make
+2015-10-29.02-50-50 clear
+2015-10-29.02-53-01 screen
+2015-10-29.10-46-17 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.10-46-17 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.10-46-18 clear
+2015-10-29.10-47-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-47-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-47-57 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-48-20 make
+2015-10-29.10-48-46 make
+2015-10-29.10-48-59 clear
+2015-10-29.10-49-02 make
+2015-10-29.10-49-04 clear
+2015-10-29.10-49-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-49-14 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-49-33 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.10-49-35 make
+2015-10-29.10-49-37 clear
+2015-10-29.11-00-39 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.11-01-23 make
+2015-10-29.11-04-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.11-04-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.11-04-45 make
+2015-10-29.11-27-26 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.11-27-26 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.11-35-36 clear
+2015-10-29.11-35-38 make
+2015-10-29.11-35-46 make
+2015-10-29.11-35-55 clear
+2015-10-29.11-35-56 make
+2015-10-29.11-36-14 clear
+2015-10-29.11-36-15 make
+2015-10-29.11-36-23 make
+2015-10-29.11-36-35 make
+2015-10-29.11-36-37 clear
+2015-10-29.11-36-38 make
+2015-10-29.11-37-07 make
+2015-10-29.11-37-09 make
+2015-10-29.11-37-10 clera
+2015-10-29.11-37-12 clear
+2015-10-29.11-37-32 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-03-40 make
+2015-10-29.12-04-10 make
+2015-10-29.12-04-27 make
+2015-10-29.12-04-42 clear
+2015-10-29.12-04-44 make
+2015-10-29.12-04-45 clear
+2015-10-29.12-05-04 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-06-19 make
+2015-10-29.12-06-21 clear
+2015-10-29.12-06-35 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-06-35 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-06-36 clea
+2015-10-29.12-06-37 clear
+2015-10-29.12-06-39 make
+2015-10-29.12-06-47 clear
+2015-10-29.12-06-49 make
+2015-10-29.12-06-50 clear
+2015-10-29.12-07-11 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-08-09 make
+2015-10-29.12-08-10 clear
+2015-10-29.12-09-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-09-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-09-13 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-09-42 clear
+2015-10-29.12-09-44 make
+2015-10-29.12-09-45 clear
+2015-10-29.12-26-53 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-26-53 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-27-31 make
+2015-10-29.12-28-42 clear
+2015-10-29.12-28-43 make
+2015-10-29.12-28-50 clear
+2015-10-29.12-28-52 make
+2015-10-29.12-29-56 clear
+2015-10-29.12-29-58 make
+2015-10-29.12-30-00 clera
+2015-10-29.12-30-02 clear
+2015-10-29.12-31-35 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-31-35 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-32-33 clear
+2015-10-29.12-32-35 make
+2015-10-29.12-34-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-34-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-34-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-35-48 make
+2015-10-29.12-35-49 clear
+2015-10-29.12-37-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-37-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-37-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-37-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-37-21 make
+2015-10-29.12-38-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-38-44 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-38-46 clear
+2015-10-29.12-38-49 make
+2015-10-29.12-38-50 clear
+2015-10-29.12-39-15 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-39-15 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-39-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-39-16 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-39-48 clear
+2015-10-29.12-39-50 make
+2015-10-29.12-40-02 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-41-51 clea
+2015-10-29.12-41-53 make
+2015-10-29.12-42-19 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-44-02 make
+2015-10-29.12-44-03 clera
+2015-10-29.12-44-04 clera
+2015-10-29.12-44-05 clear
+2015-10-29.12-44-24 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-45-57 clear
+2015-10-29.12-45-59 make
+2015-10-29.12-46-01 clear
+2015-10-29.12-46-19 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-46-46 clear
+2015-10-29.12-46-48 make
+2015-10-29.12-46-49 clear
+2015-10-29.12-47-02 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-48-07 clear
+2015-10-29.12-48-10 make
+2015-10-29.12-48-11 clear
+2015-10-29.12-48-38 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-50-37 make
+2015-10-29.12-50-53 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-52-13 clear
+2015-10-29.12-52-15 make
+2015-10-29.12-52-20 clear
+2015-10-29.12-52-36 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-54-59 clear
+2015-10-29.12-55-01 make
+2015-10-29.12-55-02 clear
+2015-10-29.12-55-28 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-56-16 make
+2015-10-29.12-56-17 clear
+2015-10-29.12-56-41 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-57-15 clear
+2015-10-29.12-57-19 make
+2015-10-29.12-57-38 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-58-03 clear
+2015-10-29.12-58-05 make
+2015-10-29.12-58-31 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.12-59-39 clear
+2015-10-29.12-59-41 make
+2015-10-29.12-59-44 clear
+2015-10-29.13-00-04 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-01-35 clear
+2015-10-29.13-01-37 make
+2015-10-29.13-01-39 clear
+2015-10-29.13-02-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-02-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-02-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-02-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-02-18 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-02-19 clear
+2015-10-29.13-02-21 make
+2015-10-29.13-02-22 clear
+2015-10-29.13-04-51 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-04-51 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-05-15 make
+2015-10-29.13-05-38 make
+2015-10-29.13-05-39 clear
+2015-10-29.13-13-20 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-13-20 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-13-20 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-13-58 clear
+2015-10-29.13-13-58 make
+2015-10-29.13-14-54 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-14-54 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-14-54 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt
+2015-10-29.13-15-15 make
+2015-10-29.13-15-18 clear
+2015-10-29.13-15-43 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-17-41 make
+2015-10-29.13-18-43 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-19-16 make
+2015-10-29.13-19-23 make
+2015-10-29.13-19-24 clear
+2015-10-29.13-20-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-20-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-20-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-20-42 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-34-54 clea
+2015-10-29.13-34-54 rmake
+2015-10-29.13-34-55 clear
+2015-10-29.13-34-56 make
+2015-10-29.13-35-10 clear
+2015-10-29.13-35-11 make
+2015-10-29.13-35-34 clear
+2015-10-29.13-35-35 make
+2015-10-29.13-36-30 clear
+2015-10-29.13-36-33 make
+2015-10-29.13-37-06 clear
+2015-10-29.13-37-08 make
+2015-10-29.13-37-10 clear
+2015-10-29.13-37-47 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-40-01 clear
+2015-10-29.13-40-03 make
+2015-10-29.13-41-04 clear
+2015-10-29.13-41-05 make
+2015-10-29.13-41-17 clear
+2015-10-29.13-41-19 make
+2015-10-29.13-41-20 cleear
+2015-10-29.13-41-21 clear
+2015-10-29.13-42-01 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-43-32 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-43-54 make
+2015-10-29.13-43-56 make
+2015-10-29.13-43-57 clear
+2015-10-29.13-44-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-44-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-44-37 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-45-02 make
+2015-10-29.13-45-13 make
+2015-10-29.13-45-13 clear
+2015-10-29.13-45-27 make
+2015-10-29.13-47-19 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-47-19 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-47-30 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-47-31 exit
+2015-10-29.13-47-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-47-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-47-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-10-29.13-48-28 clear
+2015-10-29.13-48-29 screen
+2015-10-29.13-48-30 screen -r
+2015-10-29.13-49-23 screen -r 27
+2015-10-30.17-08-49 ./compute_optical_flow /home/egavves/Datasets/ucf101/videolist.txt /home/egavves/Datasets/ucf101/numframes.txt 0
+2015-11-03.16-47-59 clear
+2015-11-03.16-48-03 clear
+2015-11-03.16-51-38 vim /home/egavves/Datasets/ucf101/numframes.txt
+2015-11-03.16-53-59 vim /home/egavves/Datasets/hmdb51/videolist.txt
+2015-11-03.16-54-08 vim /home/egavves/Datasets/hmdb51/numframes.txt 
+2015-11-03.16-54-10 clear
+2015-11-03.16-54-23 ./compute_optical_flow /home/egavves/Datasets/hmdb51/videolist.txt /home/egavves/Datasets/hmdb51/numframes.txt 0
+2015-11-03.16-54-39 ls /home/egavves/Datasets/hmdb51/videos/dribble/Basketball_Dribbling_Drills_-_The_12_Inch_Dribble_Drill_in_Basketball_dribble_f_cm_np1_fr_med_2.avi/frame_00001.jpg
+2015-11-03.16-54-45 ls /home/egavves/Datasets/hmdb51/videos/dribble/Basketball_Dribbling_Drills_-_The_12_Inch_Dribble_Drill_in_Basketball_dribble_f_cm_np1_fr_med_2.avi/frame_00001.jpg
+2015-11-03.16-55-00 vim /home/egavves/Datasets/hmdb51/videolist.txt
+2015-11-03.16-55-28 vim /home/egavves/Datasets/ucf101/videolist.txt
+2015-11-03.16-55-55 vim /home/egavves/Datasets/hmdb51/videolist.txt
+2015-11-03.16-58-01 clear
+2015-11-04.05-56-43 ./compute_optical_flow /home/egavves/Datasets/hmdb51/videolist.txt /home/egavves/Datasets/hmdb51/numframes.txt 0
+2015-11-04.08-30-02 ./compute_optical_flow /home/egavves/Datasets/hmdb51/videolist.txt /home/egavves/Datasets/hmdb51/numframes.txt 0
+2015-11-04.08-30-30 ./compute_optical_flow /home/egavves/Datasets/hmdb51/videolist.txt /home/egavves/Datasets/hmdb51/numframes.txt 0
+2015-11-28.09-16-13 clc
+2015-11-28.09-16-19 make
+2015-11-28.09-16-19 clc
+2015-11-28.09-16-21 clc
+2015-11-28.09-16-23 make
+2015-11-28.09-16-24 make
+2015-11-28.09-16-24 make
+2015-11-28.09-16-25 make
+2015-11-28.09-16-25 clc
+2015-11-28.09-16-28 ./compute_optical_flow 
+2015-11-28.09-17-01 make
+2015-11-28.09-17-02 clc
+2015-11-28.09-17-03 ./compute_optical_flow 
+2015-11-28.09-17-26 rm compute_optical_flow
+2015-11-28.09-17-27 clc
+2015-11-28.09-17-29 make all
+2015-11-28.09-17-31 make all
+2015-11-28.09-17-31 make all
+2015-11-28.09-17-32 make all
+2015-11-28.09-17-32 clc
+2015-11-28.09-17-34 ./compute_optical_flow 
+2015-11-28.09-17-51 clear
+2015-11-28.09-17-53 make
+2015-11-28.09-18-39 clc
+2015-11-28.09-18-56 vim compute_optical_flow.cpp 
+2015-11-28.09-18-59 vim compute_optical_flow.cpp 
+2015-11-28.09-19-00 ks
+2015-11-28.09-19-11 vim README.txt 
+2015-11-28.09-19-14 cmake .
+2015-11-28.09-19-27 make clean
+2015-11-28.09-19-30 clear
+2015-11-28.09-19-32 cmake .
+2015-11-28.09-20-00 cmake clean
+2015-11-28.09-20-48 cmake --target=clean
+2015-11-28.09-21-01 rm CMakeCache.txt 
+2015-11-28.09-21-02 clear
+2015-11-28.09-21-04 cmake .
+2015-11-28.09-21-09 make all
+2015-11-28.09-21-12 clear
+2015-11-28.09-21-14 ./compute_optical_flow 
+2015-11-28.09-59-50 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/noframefiles_videolist.txt /home/egavves/Datasets/hmdb51/noframefiles_numframes.txt 
+2015-11-30.11-48-33 clc
+2015-11-30.11-49-03 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.11-49-03 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.11-49-03 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.11-49-03 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.11-51-47 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.11-52-01 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.12-01-48 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2015-11-30.12-05-06 ls /home/egavves/Datasets/hmdb51/frames_resized/push/99
+2015-11-30.12-05-33 ls /home/egavves/Datasets/hmdb51/frames_resized/push/99
+2015-11-30.13-25-48 rm -rf CMake*
+2015-11-30.13-25-48 clc
+2015-11-30.13-26-05 mkdir build
+2015-11-30.13-26-39 cp ../bak.cuda_flow/CMakeLists.txt .
+2015-11-30.13-32-26 clc
+2015-11-30.13-32-31 rm compute_optical_flow
+2016-01-04.16-59-08 vim README.txt 
+2016-01-04.16-59-20 vim prepare_videofiles.py 
+2016-01-04.17-01-46 vim compute_optical_flow.cpp 

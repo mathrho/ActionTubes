@@ -1,0 +1,17 @@
+2015-11-30.13-26-08 cmake ../
+2015-11-30.13-26-24 cmake ../
+2015-11-30.13-26-44 cleear
+2015-11-30.13-26-44 clear
+2015-11-30.13-26-47 cmake ../
+2015-11-30.13-27-15 export CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5/
+2015-11-30.13-27-16 cmake ../
+2015-11-30.13-27-58 cmake -D CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-7.5/ ../
+2015-11-30.13-28-03 make all
+2015-11-30.13-28-07 clear
+2015-11-30.13-28-09 make all
+2015-11-30.13-32-16 clear
+2015-11-30.13-32-20 make all
+2015-11-30.13-32-37 ./compute_optical_flow 
+2015-11-30.14-01-23 ./compute_optical_flow  /home/egavves/Datasets/hmdb51/meta/fullvideolist.txt /home/egavves/Datasets/hmdb51/meta/fullnumframelist.txt 
+2016-01-04.17-02-49 ./compute_optical_flow 
+2016-01-04.17-03-25 vim compute_optical_flow 

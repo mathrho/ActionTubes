@@ -1,0 +1,2 @@
+all:
+	g++ demo.cpp -I. -L. -lof -o demo_of
